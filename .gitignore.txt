@@ -1,0 +1,8 @@
+[Llaveros]
+.DS_Store
+Library/
+Logs/
+Temp/
+UserSettings/
+Packages/
+ProjectSettings/EditorBuildSettings.asset
